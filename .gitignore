@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Add 20161228
+Library
+Temp
+Build
+Obj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.swp
+*.csproj
